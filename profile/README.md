@@ -43,9 +43,7 @@ Our mission is to enhance the security landscape of telecommunications through:
 - Practical insights from industry experience
 - Standardization of security testing methodologies
 
-<div align="center">
-  <img src="./images/SS7-Security.jpg" alt="Security Framework" width="600"/>
-</div>
+
 
 ## 🔬 Research Areas
 
@@ -56,9 +54,6 @@ Our mission is to enhance the security landscape of telecommunications through:
 - **Identity & Authentication**: SIM/eSIM security mechanisms
 - **Emerging Technologies**: 5G security architecture and beyond
 
-<div align="center">
-  <img src="./images/rfs-lab.jpg" alt="Research Lab" width="600"/>
-</div>
 
  **TelcoSec: Advancing Global Telecommunications Security Together**
 
@@ -71,7 +66,13 @@ This project is currently maintained by **RFS**. We welcome passionate contribut
 
 ## 🚀 Projects
 
-TelcoSec leads and documents a range of research and development projects in telecommunications security. Explore some of our featured projects below, or see the full list in the [projects directory](projects/README.md):
+TelcoSec leads and documents a range of research and development projects in telecommunications security. 
+
+<div align="center">
+  <img src="./images/rfs-lab.jpg" alt="Research Lab" width="600"/>
+</div>
+
+Explore some of our featured projects below, or see the full list in the [projects directory](projects/README.md):
 
 - **[5G Security Architecture Analysis](projects/5g-security-architecture-analysis.md)**  
   In-depth analysis of 5G core and RAN security features, vulnerabilities, and mitigations.  
@@ -129,11 +130,6 @@ For more projects and details, visit the [projects directory](projects/README.md
 - [Contributing Guidelines](docs/contributing.md)
 - [Security Policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md)
 - [Issue Tracker](https://github.com/TelcoSec/research/issues)
-
-## 🤝 Community Engagement
-
-### How to Contribute
-We welcome contributions from the security and telecommunications community. Please review our [contribution guidelines](docs/contributing.md) before submitting pull requests.
 
 ### Security Disclosure
 For responsible disclosure of telecom system vulnerabilities, please follow our [security policy](https://github.com/TelcoSec/security-policy/blob/main/SECURITY.md).
