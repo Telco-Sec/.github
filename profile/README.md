@@ -18,6 +18,7 @@ TelcoSec is a pioneering open research community dedicated to advancing telecomm
 <div align="center">
   <img src="./images/RFS.jpg" alt="Research Methodology" width="600"/>
 </div>
+
 ### Current Research Initiatives
 
 <table>
