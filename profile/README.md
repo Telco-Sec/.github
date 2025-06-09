@@ -1,10 +1,3 @@
-> **TelcoSec: Advancing Global Telecommunications Security Together**
->
-> 🚀 Join our open research community and help secure the future of telecom!
-
-> **Project Maintainer:**
-> This project is currently maintained by **RFS**. We welcome passionate contributors—join us and become part of the TelcoSec team!
-
 # 🔐 TelcoSec - Telecommunications Security Research Initiative
 
 <div align="center">
@@ -52,6 +45,12 @@ Our mission is to enhance the security landscape of telecommunications through:
 <div align="center">
   <img src="./images/rfs-lab.jpg" alt="Research Lab" width="600"/>
 </div>
+> **TelcoSec: Advancing Global Telecommunications Security Together**
+>
+> 🚀 Join our open research community and help secure the future of telecom!
+
+> **Project Maintainer:**
+> This project is currently maintained by **RFS**. We welcome passionate contributors—join us and become part of the TelcoSec team!
 
 ### Current Research Initiatives
 
