@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./images/og-image.jpg" alt="TelcoSec Open Graph" width="600"/>
-</p>
-
 > **TelcoSec: Advancing Global Telecommunications Security Together**
 >
 > 🚀 Join our open research community and help secure the future of telecom!
