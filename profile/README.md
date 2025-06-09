@@ -16,9 +16,22 @@
 TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2020, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
 
 <div align="center">
-  <img src="./images/methodology.png" alt="Research Methodology" width="600"/>
+  <img src="./images/RFS.png" alt="Research Methodology" width="600"/>
 </div>
+### Current Research Initiatives
 
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/5G-Security%20Architecture%20Analysis-brightgreen" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Signaling-Cross%20Protocol%20Attacks-orange" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Legacy-2G%20Persistence%20Risks-blue" height="25"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Roaming-Security%20Implications-purple" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/IoT-Telecom%20Protocol%20Misuse-red" height="25"/></td>
+    <td><img src="https://img.shields.io/badge/Private-Radio%20Interface%20Security-yellow" height="25"/></td>
+  </tr>
+</table>
 ## 🎯 Mission & Vision
 
 Our mission is to enhance the security landscape of telecommunications through:
@@ -52,20 +65,7 @@ Our mission is to enhance the security landscape of telecommunications through:
 > **Project Maintainer:**
 > This project is currently maintained by **RFS**. We welcome passionate contributors—join us and become part of the TelcoSec team!
 
-### Current Research Initiatives
 
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/5G-Security%20Architecture%20Analysis-brightgreen" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/Signaling-Cross%20Protocol%20Attacks-orange" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/Legacy-2G%20Persistence%20Risks-blue" height="25"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Roaming-Security%20Implications-purple" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/IoT-Telecom%20Protocol%20Misuse-red" height="25"/></td>
-    <td><img src="https://img.shields.io/badge/Private-Radio%20Interface%20Security-yellow" height="25"/></td>
-  </tr>
-</table>
 
 ## 🚀 Projects
 
