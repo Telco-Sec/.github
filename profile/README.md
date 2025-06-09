@@ -44,7 +44,7 @@ Our mission is to enhance the security landscape of telecommunications through:
 - Standardization of security testing methodologies
 
 <div align="center">
-  <img src="./images/RFS.png" alt="Security Framework" width="600"/>
+  <img src="./images/SS7-Security.jpg" alt="Security Framework" width="600"/>
 </div>
 
 ## 🔬 Research Areas
