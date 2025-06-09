@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./images/telcosec.jpg" alt="TelcoSec Cover" width="800"/>
   
-  ### **Advancing Telecommunications Security Research Since 2020**
+  ### **Advancing Telecommunications Security Research Since 2023**
   
   [![Website](https://img.shields.io/badge/Website-telco--sec.com-blue?style=for-the-badge&logo=globe)](https://telco-sec.com)
   [![GitHub](https://img.shields.io/badge/GitHub-TelcoSec-171515?style=for-the-badge&logo=github)](https://github.com/TelcoSec)
@@ -13,7 +13,7 @@
 
 ## 📋 Overview
 
-TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2020, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
+TelcoSec is a pioneering open research community dedicated to advancing telecommunications security knowledge and practices. Founded in 2023, our initiative brings together industry professionals, researchers, and security experts to address critical challenges in telecom security.
 
 <div align="center">
   <img src="./images/RFS.jpg" alt="Research Methodology" width="600"/>
@@ -33,16 +33,6 @@ TelcoSec is a pioneering open research community dedicated to advancing telecomm
     <td><img src="https://img.shields.io/badge/Private-Radio%20Interface%20Security-yellow" height="25"/></td>
   </tr>
 </table>
-
-## 🎯 Mission & Vision
-
-Our mission is to enhance the security landscape of telecommunications through:
-
-- Advanced research and development in telecom security
-- Knowledge sharing and community collaboration
-- Development of open-source security testing tools
-- Practical insights from industry experience
-- Standardization of security testing methodologies
 
 
 
@@ -75,39 +65,7 @@ TelcoSec leads and documents a range of research and development projects in tel
 
 Explore some of our featured projects below, or see the full list in the [projects directory](projects/README.md):
 
-- **[5G Security Architecture Analysis](projects/5g-security-architecture-analysis.md)**  
-  In-depth analysis of 5G core and RAN security features, vulnerabilities, and mitigations.  
-  _Status: Ongoing_
 
-- **[Signaling Cross-Protocol Attacks](projects/signaling-cross-protocol-attacks.md)**  
-  Research on cross-protocol attacks involving SS7, Diameter, and SIP signaling.  
-  _Status: Ongoing_
-
-- **[Legacy 2G Persistence Risks](projects/legacy-2g-persistence-risks.md)**  
-  Assessment of security risks in legacy 2G networks and their impact on modern telecom environments.  
-  _Status: Published_
-
-- **[IoT Telecom Protocol Misuse](projects/iot-telecom-protocol-misuse.md)**  
-  Investigation of IoT device vulnerabilities and protocol misuse in telecom networks.  
-  _Status: In Progress_
-
-- **[Private Radio Interface Security](projects/private-radio-interface-security.md)**  
-  Security research on private LTE/5G and radio interface deployments.  
-  _Status: Planned_
-
-- **[SIM/eSIM Security Research](projects/sim-esim-security-research.md)**  
-  Technical research on SIM and eSIM vulnerabilities, provisioning, and authentication.  
-  _Status: Published_
-
-For more projects and details, visit the [projects directory](projects/README.md).
-
-## 📚 Documentation & Resources
-
-<div align="center">
-  <img src="./images/CAMEL.jpg" alt="Technical Documentation" width="600"/>
-</div>
-
-### Official Platforms
 - [TelcoSec Knowledge Center](https://www.telco-sec.com/) - Comprehensive telecommunications security resources and learning paths
 - [3GPP Explainer](https://3gpp.telco-sec.com/) - Detailed guide to 3GPP standards and mobile network technologies
 - [SIM/eSIM Guide](https://sim-cards.telco-sec.com/) - Technical details of SIM cards, eSIMs, and mobile connectivity
